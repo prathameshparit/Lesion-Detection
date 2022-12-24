@@ -1,0 +1,7 @@
+﻿,Name,Accuracies
+1,KNN,100.0
+2,DT,100.0
+3,ANN,99.75
+0,SVM,99.09
+5,Hybrid,95.19
+4,CNN,13.71
